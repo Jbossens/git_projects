@@ -1,1 +1,1 @@
-git world
+study git
